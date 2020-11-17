@@ -1,4 +1,4 @@
-# Introduction
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># Introduction
 * this repo provides a (hopefully) simple approach to logging & analysis of system load on a GreenplumDB or HAWQ MPP cluster
   * it is a current work in progress and I will update as more components complete
 
